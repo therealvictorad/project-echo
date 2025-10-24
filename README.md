@@ -52,14 +52,16 @@ flutter run
 1. API integration for online music streaming
 2. Custom playlists and favorites
 3. Dark mode and animation polish
+   
+---
 
 👨‍💻 Author
--- Victor Ade — Flutter Developer
--- 📧 victoradesina4@gmail.com
--- 💬 “Code. Test. Vibe. Repeat.”
+* Victor Ade — Flutter Developer
+*  📧 victoradesina4@gmail.com
+*   💬 “Code. Test. Vibe. Repeat.”
 
-
---- ⭐ If you like this project, give it a star — it helps a lot!
+---
+ ⭐ If you like this project, give it a star — it helps a lot!
 
 
 
